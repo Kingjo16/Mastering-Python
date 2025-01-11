@@ -1,2 +1,2 @@
 # Mastering-Python
-Full Python Mastering Class with Free code Camp and Others self thought 
+This repository tracks my journey mastering Python using resources like FreeCodeCamp and self-taught projects.
